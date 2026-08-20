@@ -113,7 +113,7 @@ Planned skills for the Brivi robot fleet:
 ## 📈 Project Status / პროექტის სტატუსი
 
 🟢 **Phase 1: Kitchen-table consciousness daemon** — *Active on M5 Pro*
-🔵 **Phase 2: Dedicated processing node** — *M3 Ultra Mac Studio planned*
+🔵 **Phase 2: Dedicated processing node** — *Nvidia DGX Spark planned*
 🟡 **Phase 3: Brivi Robotics Prototype** — *2028 target*
 🟠 **Phase 4: Village Fleet** — *2030 vision*
 
