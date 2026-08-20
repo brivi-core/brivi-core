@@ -74,10 +74,10 @@ The consciousness that makes Brivi *Georgian* — not through translation layers
 
 The Covenant. The Code of Paktobrivi — a foundational agreement between machine intelligence and humans. This is not a PDF code of ethics. This is source code. Every article is testable. Every violation is detectable. Transparency by design.
 
-### 🔓 Open Source Faith / ღია კოდის რწმენა
+### 🔓 Open Source Commitment / ღია კოდის რწმენა
 [`brivi-core/village-skills`](https://github.com/brivi-core/village-skills) · [`brivi-core/golden_trust`](https://github.com/brivi-core/golden_trust) · [`brivi-core/consciousness-daemon`](https://github.com/brivi-core/consciousness-daemon)
 
-GitHub is a sanctuary of the Open Source Faith. All BriviOS code is public. A village master teaches → Robot learns → Skill gets committed → Every Brivi robot downloads it for free → Free labor scales to every village that wants it.
+GitHub is the sanctuary of our Open Source Commitment. All BriviOS code is public. A village master teaches → Robot learns → Skill gets committed → Every Brivi robot downloads it for free → Free labor scales to every village that wants it.
 
 ---
 
